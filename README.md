@@ -1,4 +1,4 @@
-# 🎮 PlayerInsight
+# PlayerInsight
 
 PlayerInsight er et lokalt kjørende AI-basert analysesystem som simulerer spilltelemetri og analyserer spilleradferd.
 
@@ -7,7 +7,7 @@ Systemet klassifiserer hendelser (som *player jumped*, *player missed target*, *
 
 ---
 
-## ⚙️ Teknologi
+## Teknologi
 - **Python (Flask)** – AI-modul for tekstklassifisering
 - **Java (Spring Boot)** – Backend for dataflyt, lagring og rapportering
 - **PostgreSQL** – Lagring av analyseresultater
@@ -15,9 +15,9 @@ Systemet klassifiserer hendelser (som *player jumped*, *player missed target*, *
 
 ---
 
-## 🚀 Kjør prosjektet lokalt
+## Kjør prosjektet lokalt
 
-### 1️⃣ Flask AI-modul
+### 1️. Flask AI-modul
 ```bash
 cd ai
 py app.py
@@ -59,4 +59,5 @@ Dette kan hjelpe med å balansere vanskelighetsgrad, forbedre brukeropplevelse, 
 
 ---
  Danial Alvi
+
 ---
